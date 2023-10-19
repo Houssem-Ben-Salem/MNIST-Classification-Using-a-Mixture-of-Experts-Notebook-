@@ -54,8 +54,6 @@ Once the code is executed, it will:
 - Train the Mixture of Experts model.
 - (Optional: Display predictions using the MoE model)
 
-Ah, got it! If it's a Jupyter notebook, you might want to provide instructions for setting up and running it within a Jupyter environment. Here's an adjusted README file for your notebook:
-
 ## License
 
 This project is licensed under the MIT License.
