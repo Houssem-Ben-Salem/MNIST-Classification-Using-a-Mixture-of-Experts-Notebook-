@@ -33,24 +33,14 @@ pip install notebook requests numpy matplotlib pyspark tensorflow
 
 ## Usage
 
-1. Clone this repository:
-```bash
-git clone [YOUR_REPOSITORY_LINK]
-```
-
-2. Navigate to the directory:
-```bash
-cd [YOUR_DIRECTORY_NAME]
-```
-
-3. Start Jupyter Notebook:
+1. Start Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
 
-4. In the Jupyter interface opened in your browser, click on the notebook to open it (`[YOUR_NOTEBOOK_NAME].ipynb`).
+2. In the Jupyter interface opened in your browser, click on the notebook to open it (`Mixture of experts (MoE).ipynb`).
 
-5. Run the cells sequentially to execute the code and view the results.
+3. Run the cells sequentially to execute the code and view the results.
 
 
 ## Results
